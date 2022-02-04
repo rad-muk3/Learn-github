@@ -1,0 +1,9 @@
+First step to learn github.
+Create a git repository first and start tracking file changes
+1. at command-line do git init - this will create an empty repository.
+2. Use ls -a  that will show hidden files like .git.
+3. Use git status -
+       to view what files you modified/changed/updated. This is still local to your
+       drive.
+4. Now to add it to the repository, do:
+      git add . (for all files) or git add filename.   
