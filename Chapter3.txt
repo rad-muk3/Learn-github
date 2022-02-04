@@ -1,1 +1,13 @@
 Will add more to this.
+
+How to revert any mistakes :
+   1. Say you made some change or messed up file.
+   2. Do first git status - shows file/s changed
+
+   3. How to see difference to the current saved file local and last chain of commit in repository
+   4. No do git diff
+
+   5. Now if you want to use the earlier committed version of the file then do the following which
+   will roll out the current version of the file to the earlier committed one. So the step is:
+
+       git checkout Chapter3.txt
