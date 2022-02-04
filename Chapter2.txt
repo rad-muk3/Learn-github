@@ -1,0 +1,6 @@
+Continuing Steps for Git repository:
+5. git add .
+6. git status - this will show the new added file.
+7. git commit -m "A description of your change"
+8. git log
+        This shows who commiitedm a hash tag, time/date and the commit description.
